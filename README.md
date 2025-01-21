@@ -4,6 +4,7 @@ The Movie Website is a dynamic platform that allows users to browse and search f
 Star ⭐ the repo if you like what you see 😉
 📸 Project Demo
 
+
 ![Uploading screen.gif.gif…]()
 
 
