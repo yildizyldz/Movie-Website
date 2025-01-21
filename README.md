@@ -4,9 +4,11 @@ The Movie Website is a dynamic platform that allows users to browse and search f
 Star ⭐ the repo if you like what you see 😉
 📸 Project Demo
 
+![EkranKayd2025-01-21184010-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/6cc633cd-bf02-4fc5-8c72-d48f0e7b7ef6)
 
 
-![screen gif](https://github.com/user-attachments/assets/a89d0277-6ae3-4b54-87b6-5f18e40c6359)
+
+
 
 
 🛠️ Technologies Used
