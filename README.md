@@ -5,7 +5,7 @@ Star ⭐ the repo if you like what you see 😉
 📸 Project Demo
 
 
-![Uploading screen.gif.gif…]()
+![(Uploading screen.gif.gif…)]
 
 
 🛠️ Technologies Used
