@@ -5,7 +5,8 @@ Star ⭐ the repo if you like what you see 😉
 📸 Project Demo
 
 
-![(Uploading screen.gif.gif…)]
+
+![screen gif](https://github.com/user-attachments/assets/a89d0277-6ae3-4b54-87b6-5f18e40c6359)
 
 
 🛠️ Technologies Used
